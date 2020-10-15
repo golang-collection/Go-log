@@ -1,0 +1,5 @@
+TRACE: 2020/10/15 15:44:10 {"callers":["/Users/super/develop/Go-log/main.go: 35 main.init.0"],"level":"info","message":"log info","time":1602747850850687000}
+TRACE: 2020/10/15 15:44:10 {"callers":["/Users/super/develop/Go-log/main.go: 35 main.init.0"],"level":"warn","message":"log warn","time":1602747850851158000}
+TRACE: 2020/10/15 15:44:10 {"callers":["/Users/super/develop/Go-log/main.go: 35 main.init.0"],"level":"debug","message":"log debug","time":1602747850851182000}
+TRACE: 2020/10/15 15:44:10 {"callers":["/Users/super/develop/Go-log/main.go: 35 main.init.0"],"level":"error","message":"log error","time":1602747850851198000}
+TRACE: 2020/10/15 15:44:10 {"callers":["/Users/super/develop/Go-log/main.go: 35 main.init.0"],"level":"panic","message":"log panic","time":1602747850851212000}
